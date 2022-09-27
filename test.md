@@ -1,7 +1,20 @@
 ---
 layout: default
-title: Customization
-nav_order: 4
+title: 1. Status van taak
+nav_order: 1
 ---
 
-#Test
+# 1. Status van taak
+
+Als medewerker wil ik de voor mij opgestelde taken kunnen raadplegen zodat ik deze gemakkelijk kan uitvoeren.
+Als medewerker wil ik mijn de status van mijn taak kunnen starten en beëindigen zodat het duidelijk 
+is wel taken nog uitgevoerd moeten worden.
+
+## Acceptatiecriteria
+
+* Dagplanning van de taken wordt getoond aan de medewerker.
+* Taak kan worden gestart.
+* Taak kan worden beëindigt.
+* Conflicten tussen taken worden opgespoord en gerapporteerd.
+* De status van de taak kan door de verantwoordelijke worden geraadpleegt.
+* Data van taken wordt opgeslagen (later te verwerken).
