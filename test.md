@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 1. Status van taak
+parent: Analyse
 nav_order: 1
 ---
 
