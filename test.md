@@ -57,7 +57,7 @@ Als beheerder wil ik taken kunnen toekennen aan beschikbare medewerkers.
 ## Acceptatiecriteria
 
 * Taken kunnen aangemaakt worden
-* Tijdsgerelateerde van de taak wordt correct verwerkt.
+* Tijd gerelateerde info van de taak wordt correct verwerkt.
 * Taken kunnen worden toegekend aan medewerkers.
 * De beschikbaarheid/werkdruk van medewerkers kan worden berekend.
 * De beschikbaarheid/werkdruk van medewerkers kan worden getoond.
