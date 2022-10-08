@@ -61,3 +61,4 @@ Als beheerder wil ik taken kunnen toekennen aan beschikbare medewerkers.
 * Taken kunnen worden toegekend aan medewerkers.
 * De beschikbaarheid/werkdruk van medewerkers kan worden berekend.
 * De beschikbaarheid/werkdruk van medewerkers kan worden getoond.
+
