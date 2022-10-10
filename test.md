@@ -36,13 +36,13 @@ Als beheerder wil ik de info over de kweeksites kunnen uitbreiden of veranderen.
 
 # 3. Boomsoort info beheren
 
-Als medewerker wil ik de info over de verschillende boomsoorten kunnen bekijken in de vorm van een lijst met foto's met locaties.
+Als medewerker wil ik de info over de verschillende boomsoorten kunnen bekijken aan de hand van een lijst met foto's van locaties.
 Als beheerder wil ik de info over de boomsoorten kunnen uitbreiden of veranderen.
 Als medewerker wil ik via een QR-code te scannen onderhoudsinstructies in pdf formaat krijgen voor de huidige locatie.
 
 ## Acceptatiecriteria
 
-* De Qr-code scannen geeft een pdf weer.
+* De QR-code scannen geeft een pdf weer.
 * Boomsoort info kan worden bekeken door medewerkers.
 * Er kan info worden aangepast.
 * Er kan info worden toegevoegd.
@@ -56,7 +56,7 @@ Als beheerder wil ik taken kunnen toekennen aan beschikbare medewerkers.
 
 ## Acceptatiecriteria
 
-* Taken kunnen aangemaakt worden
+* Taken kunnen aangemaakt worden.
 * Tijd gerelateerde info van de taak wordt correct verwerkt.
 * Taken kunnen worden toegekend aan medewerkers.
 * De beschikbaarheid/werkdruk van medewerkers kan worden berekend.
